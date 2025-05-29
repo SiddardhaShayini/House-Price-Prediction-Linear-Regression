@@ -66,17 +66,23 @@ The project follows these key steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/SiddardhaShayini/House-Price-Prediction-Linear-Regression.git
     cd <repository_name>
     ```
-2.  **Install dependencies:**
+2.  **Navigate to the project directory:**
     ```bash
-    pip install pandas numpy matplotlib seaborn scikit-learn
+    cd House-Price-Prediction-Linear-Regression
     ```
-3.  **Run the Python script:**
+3.  **Open the Jupyter Notebook (or Google Colab):**
+    The main analysis is within a Jupyter Notebook (or equivalent `.ipynb` file if you plan to upload it).
     ```bash
-    python your_script_name.py # Replace 'your_script_name.py' with the actual file name
+    # If you have Jupyter installed
+    jupyter notebook
     ```
+    Alternatively, you can upload the notebook directly to Google Colab.
+
+4.  **Run all cells:** Execute all cells in the notebook to reproduce the analysis and visualizations.
+
 ---
 ## ✍️ Author
 
