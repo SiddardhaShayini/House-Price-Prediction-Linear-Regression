@@ -67,7 +67,6 @@ The project follows these key steps:
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/SiddardhaShayini/House-Price-Prediction-Linear-Regression.git
-    cd <repository_name>
     ```
 2.  **Navigate to the project directory:**
     ```bash
